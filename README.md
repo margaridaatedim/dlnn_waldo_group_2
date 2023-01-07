@@ -1,1 +1,3 @@
-# dlnn_waldo_group_2
+# Deep Learning Neural Networks (Group 2)
+       - Where's Waldo? 
+       
