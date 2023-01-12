@@ -45,7 +45,7 @@ Considering we still had 2% of “waldo” images we decided to enrich our prima
 
 In this file, we used the YOLO3 model trained in the previous file to predict the location of Waldo and define bounding boxes around him. The data used for prediction is in a public folder of Google Drive and you have to access the folder in your notebook. You may need to adjust the file path slightly depending on where you are running your notebook. The link to the folder is: https://drive.google.com/drive/folders/1PqYWwEwyzbhACvMI-hQhUOqJh0h27Vw4?usp=sharing
 
-#### ObjectDetection_justforfun.ipynb 
+#### ObjectDetection_JustForFun.ipynb 
 
 As a fun demonstration of the capabilities of object detection, in this file we adapted a model to detect and predict the presence of the characters Professor Illya or Mafalda as Waldo. This implementation takes a background image and randomly places one of the Professors to train and test the model. Unfortunately, due to time constraints, we were not able to apply this approach to the actual dataset. The data used for this model is in a waldoprofessors.zip file.
 
